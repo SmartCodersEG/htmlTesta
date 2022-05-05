@@ -1,5 +1,7 @@
 :root { 
-  --alto: #dcdcdc;
  
+  --font-size-l: 50px;
+  --font-size-m: 40px;
  
+  --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
 }

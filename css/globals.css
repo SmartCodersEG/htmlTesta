@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/segoeuib.ttf") format("truetype");
+}
+
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
-@import url("https://px.animaapp.com/5cb87e6cd6d4590009976f56.5ea5b46aa7faa7c6d14405c6.UPlo4FK.hcp.png");
+@import url("https://px.animaapp.com/5cb87e6cd6d4590009976f56.5ea5b46aa7faa7c6d14405c6.m3TGAiM.hcp.png");
 
 .screen textarea:focus,
 .screen input:focus {
